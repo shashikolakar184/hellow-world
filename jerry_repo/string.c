@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#this is addeng 
+a=0
 int my_strlen(char *s)
 {
    char *p = s;
